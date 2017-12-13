@@ -1,0 +1,6 @@
+{
+    "name": "Weather Forecast App",
+    "description": " Heroku App",
+    "repository": "https://github.com/jaguirr10/WeatherForecastApp",
+    "keywords": ["ionic", "WeatherApp", "Forecast"]
+}
