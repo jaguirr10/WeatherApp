@@ -9,7 +9,7 @@ export class WeatherProvider {
 
   constructor(public http: Http) {
     console.log('Hello WeatherProvider Provider');
-    this.url = 'https://api.wunderground.com/api/'+this.apiKey+'/conditions/q';
+    this.url = 'http://api.wunderground.com/api/'+this.apiKey+'/conditions/q';
   }
 
   getWeather(city, state){
